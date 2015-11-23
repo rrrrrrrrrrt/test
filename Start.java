@@ -19,6 +19,7 @@ public class Start {
         long a1 = l1 != null ? l1 : 0;
         System.out.println("a1="+a1);
         System.out.println("a1="+a1);
+        System.out.println("a1="+a1);
         M1 curM1 = new M1();
         curM1.setA(5);
         List<M1> list = new ArrayList<M1>();
